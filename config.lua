@@ -144,3 +144,5 @@ Config.Weapons = {
     --[`VEHICLE_WEAPON_PLANE_ROCKET`] = { headshot = 10.0, bodyshot = 10.0, limbshot = 10.0 },
     --[`VEHICLE_WEAPON_PLAYER_LASER`] = { headshot = 5.0, bodyshot = 5.0, limbshot = 5.0 },
 }  
+
+Config.Debug = true
